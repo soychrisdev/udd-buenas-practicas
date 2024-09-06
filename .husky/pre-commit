@@ -1,0 +1,2 @@
+npm
+prettier --write . && git add -A .
